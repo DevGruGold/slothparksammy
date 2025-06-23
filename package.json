@@ -29,5 +29,27 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
-  }
+  },
+  "author": "Joe - XMRT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGruGold/slothparksammy.git"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "privacy",
+    "defi",
+    "financial-freedom",
+    "liberty",
+    "web3",
+    "decentralized",
+    "crypto",
+    "privacy-tech",
+    "smart-contracts",
+    "ethereum",
+    "bitcoin",
+    "web3"
+  ]
 }
